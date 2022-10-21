@@ -1,16 +1,16 @@
 {
-"name": "yabo",
-"theme": "yabo",
-"version": "2.1.8",
-"description": "yabo ทางเข้าหลักเว็บไซต์บาคาร่าเว็บตรง ระบบออโต้ แจกเครดิตฟรี",
-"keywords": [
-"yabo",
-"yabo เครดิตฟรี",
-"yabo ทางเข้า"
-],
-"repository": "https://github.com/miloovaltin/yabo",
-"license": "MIT",
-"engines": {
-"atom": ">=1.0.0 <2.0.0"
-}
+  "name": "yabo",
+  "theme": "yabo",
+  "version": "2.2.0",
+  "description": "yabo ทางเข้าหลักเว็บไซต์บาคาร่าเว็บตรง ระบบออโต้ แจกเครดิตฟรี",
+  "keywords": [
+    "yabo",
+    "yabo เครดิตฟรี",
+    "yabo ทางเข้า"
+  ],
+  "repository": "https://github.com/miloovaltin/yabo",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
